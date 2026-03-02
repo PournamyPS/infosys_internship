@@ -1,1 +1,3 @@
+ Introduction to Power BI Desktop
 
+In Week 1, we were introduced to Power BI Desktop and its basic interface components. We learned about the three main views: Report View (used to create visualizations), Table View (used to view and inspect data in tabular form), and Model View (used to manage relationships between tables). We were also introduced to the Ribbon, which contains file options and tools, and learned how to import data from Excel. Additionally, we understood the purpose of the canvas for building reports and how adding a new page (using the plus icon) enables drill-through functionality.
