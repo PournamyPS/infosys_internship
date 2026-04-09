@@ -5,9 +5,8 @@ The objective of this project is to analyze a road accident dataset to identify 
 **Data Description**
 
 The dataset used is a large-scale road accident dataset containing attributes such as date and time, location (latitude and longitude), accident severity, weather conditions, road conditions, and visibility. The dataset enables time-based, environmental, and geospatial analysis. Data preprocessing included handling missing values, correcting data types, feature extraction (hour, weekday, month), and organizing data for analysis.
-**Road Accident Analysis – Dashboard Documentation**
 
-### **KPIs Used**
+**KPIs Used**
 
 * **Total Accidents:** 7,771 recorded incidents
 * **Peak Day:** Friday (2,041 accidents)
@@ -17,13 +16,13 @@ The dataset used is a large-scale road accident dataset containing attributes su
 * **Most Common Road Surface:** Dry conditions
 * **Most Common Area Type:** Office areas
 
-### **Dashboard Pages**
+**Dashboard Pages**
 
 * **Overview Dashboard:** Consolidated view of total accidents, weekday distribution, gender split, lighting conditions, and education levels
 * **Geospatial Analysis:** Interactive map highlighting accident distribution across cities (e.g., Addis Ababa, Semera, Assab)
 * **Driver & Condition Deep Dive:** Analysis of relationships between driving experience, age groups, road surface types, and junction types
 
-### **Key Insights**
+**Key Insights**
 
 * **Temporal Patterns:** Accidents peak during specific hours and are highest on Fridays
 * **Experience Level:** Drivers with over 10 years of experience show unexpectedly high involvement compared to less experienced drivers
@@ -31,7 +30,7 @@ The dataset used is a large-scale road accident dataset containing attributes su
 * **Location Risk:** Office and residential areas account for the highest concentration of accidents
 * **Junction Impact:** Major intersections, particularly Y-shaped junctions, show significantly higher accident frequency
 
-### **Recommendations**
+**Recommendations**
 
 * **Targeted Youth Safety:** Implement focused safety campaigns for the 18–30 age group
 * **Urban Infrastructure Improvements:** Strengthen traffic management in office and residential zones
